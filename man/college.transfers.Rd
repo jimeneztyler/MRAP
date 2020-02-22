@@ -2,10 +2,10 @@
 % Please edit documentation in R/hello.R
 \name{college.transfers}
 \alias{college.transfers}
-\title{new data frame of only colleges}
+\title{Subset of 1033 Program transfers made to colleges}
 \usage{
 college.transfers()
 }
 \description{
-new data frame of only colleges
+Subset of 1033 Program transfers made to colleges
 }
